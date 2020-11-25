@@ -1,6 +1,6 @@
-# WELCOME 
+# WELCOME TO MY PORFOLIO.
 
-WELCOME TO MY PORTFOLIO.
+THis a part of 2nd week assignment.
 
 for now i know :
 1. HTML
@@ -9,4 +9,4 @@ for now i know :
 1. repl.it
 2. NodeJS
 2. Chalk
-2. 
+2. Netlify
